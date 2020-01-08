@@ -1,3 +1,0 @@
-dcon.c:21:9:CHK_Control	16	static
-dcon.c:39:9:Read_DCON	24	static
-dcon.c:79:9:Write_DCON	24	static
